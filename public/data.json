@@ -1,0 +1,74 @@
+[
+    {
+        "id":"1",
+        "name":"Mustafizur Rahman",
+        "img":"https://www.theindependentbd.com/assets/news_images/Mustafiz31.jpg",
+        "team":"Bangladesh",
+        "price":"55500",
+        "quantity":"0"
+    },
+    {
+        "id":"2",
+        "name":"Shakib al Hasan",
+        "img":"https://resources.pulse.icc-cricket.com/photo-resources/2019/07/07/bee07313-fb1f-4b29-b033-f761bb52d1d1/Shakib.jpg?width=845&height=476",
+        "team":"Bangladesh",
+        "price":"535500",
+        "quantity":"0"
+    },
+    {
+        "id":"3",
+        "name":"Mosaddek Hosain saikat",
+        "img":"https://api.bdcrictime.com/mosaddek-hossain-15_03_2022.jpg",
+        "team":"Bangladesh",
+        "price":"35500",
+        "quantity":"0"
+    },
+    {
+        "id":"4",
+        "name":"Mahmudullah Riad",
+        "img":"https://i.samaaenglish.tv/primary/2022/09/14170014261c5cf.jpg",
+        "team":"Bangladesh",
+        "price":"545500",
+        "quantity":"0"
+    },
+    {
+        "id":"5",
+        "name":"Mehedi miraz",
+        "img":"https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320/lsci/db/PICTURES/CMS/319700/319728.png",
+        "team":"Bangladesh",
+        "price":"255500",
+        "quantity":"0"
+    },
+    {
+        "id":"6",
+        "name":"Taskin Ahmed",
+        "img":"https://i0.wp.com/short-biography.com/wp-content/uploads/taskin-ahmed/Taskin-Ahmed.jpeg?w=1476&ssl=1",
+        "team":"Bangladesh",
+        "price":"1255500",
+        "quantity":"0"
+    },
+    {
+        "id":"7",
+        "name":"Rubel Hosain",
+        "img":"https://admin.thecricketer.com/weblab/sites/96c8b790-b593-bfda-0ba4-ecd3a9fdefc2/resources/images/site/rubelhossainheadshot-min.jpg",
+        "team":"Bangladesh",
+        "price":"655500",
+        "quantity":"0"
+    },
+    {
+        "id":"8",
+        "name":"Musfiqur Rahim",
+        "img":"https://i0.wp.com/short-biography.com/wp-content/uploads/mushfiqur-rahim/Mohammad-Mushfiqur-Rahim.jpg?w=1024&ssl=1",
+        "team":"Bangladesh",
+        "price":"555500",
+        "quantity":"0"
+    },
+    {
+        "id":"9",
+        "name":"Mashrafee bin murtuza",
+        "img":"https://p.imgci.com/db/PICTURES/CMS/223900/223989.6.jpg",
+        "team":"Bangladesh",
+        "price":"155500",
+        "quantity":"0"
+    }
+]
